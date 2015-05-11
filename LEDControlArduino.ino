@@ -57,20 +57,19 @@
   private static final char FADER_CMD = 0x01;
   private static final char DELIMITER = ';';
 */
-/*
 #define CMD_MONO 0x00
 #define CMD_FADE 0x01
 #define PARAM_ANIM 0x00
 #define PARAM_NO_ANIM 0x01
 #define RX_DELIMITER ';'
-*/
+/*
 // only for testing purpose
 #define CMD_MONO 'a'
 #define CMD_FADE 'b'
 #define PARAM_ANIM 'r'
 #define PARAM_NO_ANIM 's'
 #define RX_DELIMITER ';'
-
+*/
 
 // eeprom address
 #define EEPROM_BASE 0x0f // base adress
