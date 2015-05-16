@@ -1,8 +1,8 @@
 /**
 * IMPORTANT NOTES:
 * optimized GooglePlay-App: https://play.google.com/store/apps/details?id=com.fennel.ledcontrol
+* Tutorial: https://github.com/fennel-labs/LED-control/wiki
 * Github: https://github.com/fennel-labs/LED-control
-* Tutorial: 
 *
 * Copyright 2015 Michael Fennel (fennel.labs@gmail.com)
 *
